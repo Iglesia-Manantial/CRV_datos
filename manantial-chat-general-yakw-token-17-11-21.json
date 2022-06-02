@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "manantial-chat-general-yakw",
+  "private_key_id": "6890e7ce8b6665d8d65c0b7c600e391993a28359",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSvQkS+7Rxr8+l\n6I76Q7JrUKm+IL/uMUR3Qg6SUmeKlZtPN+ry2rkX3/qQF402wVgf8z+FeEzjJhDH\nTWeOI+Oddm65QCUhtOIYZWhCvP3YH56mWk5ExTe36lRl9zXyb99A864sgN5LLPq0\nheOZt5/WQUq7ATostr1DCBYQU68vcj6wSI90aBo+fXv0PzFqvE4cOz5qP+jxpn+g\n/OceLOsSy9M06YRxvzcr4CvDMOohn2OrGVRh9vk++xITq+S6LlB0PWR5qKqhC1wD\nFXyLMrG2i7rbKMiM45h4WgNGW3OvW7o0qPYqZykeMa9/cj03tgne3eTM8iwrk7mz\npTyLpXmzAgMBAAECggEAGrYiorwDGvbgG9l7vX75SaPDYoLfrWJ2jicONACgLJAT\nV5ZcRJ0gOIJjQDupTyBfBGHpXEiL5oWVZFJo2W0bEBzxBvPwTnR4++vp0MxKgT8w\nSCQEP2yPOgGEH5Oi1GEdCNvTBvLmhFTJxnbg+ah9hikYi3YrutwBE+Sy74HsT/x7\ncGZruShdLN+H6WMf0OEMMCG0Mm9Z9smfkKFk3cpWbemwwflhU8NaDxCTsmmtCNq7\nlB3vUMQI8bag4BVIxphp6qdu48GnA3xrQQNXfF1KbfzJ9BMUxYYAdN/idorfgLbd\nk//THheAx2GlJMfCebkz1hWNN3TL9BYYfZ0mN6jrYQKBgQDCnfg8NlaLgZztnyr2\nC++BBdBRH6bZf62ub+2u6CW3Fs5ha79lvoPR51ZRNMailKvU/MvwXIm8RlGjwQEe\noTy2ZEDYyf9ZxPT2m/Egbbvrz/JPxxgqT8F4VJgTm61SeFG51RusUu0uepO57gbm\n68b33VBALPBUxzstVqxz8mai6wKBgQDBBS8lzWjX+HlH4sTPQySWIORKCDcHgKiO\nBWRrr6EOTD4FK4cB4NaWWxllEjoNePUB2haOEJlc8y15VlrCENmOqqFmUqYJos4x\nnT9jB/IkdmNYFyz31iimPI5oNiG/SYdFG5WMJnkwGEGiK9C5GkkpoDAOWdZsCZ5G\nrBNaU9MCWQKBgHBi9TUgU/4gDVWTsyV/YwHpL5GJa7ryZoPzkxiMays9+lR7+n1w\n9YLDyy7+AS9mF4zZp5PYfJnDKeYc0N61UfAqGOCYVeOrP6MiDq8hb4IQBehYGvZk\nNF+eymuYXRDg9qEQFfj/soRCuQiIEmhMBAyjO3K0AN2UZ/IYuWIDu42dAoGAEA3p\nVQCXxtbg54zCB+cyxNXphwrV4ObfnihuqNJL2A+ZXP641PwpfQoIu7JfZ712y3ej\nRp+00dlcH+qB1ABoyAgDMqqPKuACvHeyzP7dMhEyxCHxWI/Ug7cntR1Dg1CPUr0v\nnB+bFtf9pYp1at/30+GB/b+VKRlHs+MeHPY558kCgYEAswvsB4cgqD2xrCeZaL1k\nwicjaxat6L4cNxK0RG2Mvl78s4K1miSxE3dYwls3M2rC2u+kXkCUOzaevcB4QbJw\nwer0v0TiIMeZ6YRnrSRwuYzv2DJt/IcW38yCbox+DF/OAr8Tl/i7Jh38iwM1l6h7\nN0SVXgMQyYCu1oHPDNRYwSQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatgeneralmanantial@manantial-chat-general-yakw.iam.gserviceaccount.com",
+  "client_id": "104338811122711778668",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatgeneralmanantial%40manantial-chat-general-yakw.iam.gserviceaccount.com"
+}
